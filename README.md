@@ -1,2 +1,2 @@
 # Programas em Java
-Progamas feito na linguagem JAVA na faculdade de Ciência da Computação na PUC Minas campus Poços de Caldas.
+Progamas feitos na linguagem de programação JAVA na faculdade de Ciência da Computação na PUC Minas campus Poços de Caldas.
